@@ -1,0 +1,9 @@
+{
+  "name": "FPL Elite",
+  "short_name": "FPL Elite",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f4ee",
+  "theme_color": "#1d5e43",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

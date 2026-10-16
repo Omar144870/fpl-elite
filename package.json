@@ -1,0 +1,14 @@
+{
+  "name": "fpl-elite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Live FPL, predictions, transfer and captain planner in one free site.",
+  "scripts": {
+    "start": "node server.js",
+    "mock": "FPL_MOCK=1 node server.js",
+    "test": "node test/model.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

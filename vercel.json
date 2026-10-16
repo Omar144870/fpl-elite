@@ -1,0 +1,7 @@
+{
+  "outputDirectory": "public",
+  "functions": {
+    "api/elite.js": { "maxDuration": 30 },
+    "api/fpl.js": { "maxDuration": 15 }
+  }
+}
